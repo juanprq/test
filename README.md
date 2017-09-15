@@ -6,7 +6,7 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 Code sample in es6
 ---
 
-```jsx
+```js
 import React from 'react';
 
 export default function Test() {
