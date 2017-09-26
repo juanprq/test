@@ -6,8 +6,8 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 Sample
 ---
 
-'''js
+```js
 const test = [1, 2, 3, 4];
 
 const double = test.map(v => v * 2);
-'''
+```
